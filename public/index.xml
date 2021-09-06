@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 Sep 2021 10:07:40 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como Hacer Una Publicacion en Hugo</title>
+      <link>/posts/como-hacer-una-publicacion-en-hugo/</link>
+      <pubDate>Mon, 06 Sep 2021 10:07:40 -0400</pubDate>
+      
+      <guid>/posts/como-hacer-una-publicacion-en-hugo/</guid>
+      <description>Introduccion Preguntas que se analizaran Mas preguntas a analizar Esto que estoy haciendo aqui es un parrafo en hugo. No se como se vera
+ Esto es otro parrafo en hugo pero dentro de algo que no entiendo
+ https://blanco.com.do</description>
+      <content>&lt;h1 id=&#34;introduccion&#34;&gt;Introduccion&lt;/h1&gt;
+&lt;h2 id=&#34;preguntas-que-se-analizaran&#34;&gt;Preguntas que se analizaran&lt;/h2&gt;
+&lt;h3 id=&#34;mas-preguntas-a-analizar&#34;&gt;Mas preguntas a analizar&lt;/h3&gt;
+&lt;p&gt;Esto que estoy haciendo aqui es un parrafo en hugo. No se como se vera&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Esto es otro parrafo en hugo pero dentro de algo que no entiendo&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://blanco.com.do&#34;&gt;https://blanco.com.do&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Primer Post Hugo</title>
+      <link>/posts/primer-post-hugo/</link>
+      <pubDate>Mon, 06 Sep 2021 00:17:49 -0400</pubDate>
+      
+      <guid>/posts/primer-post-hugo/</guid>
+      <description>Mutat limina urbis lacertis matrem metus lebetes Permaneo viam Lorem markdownum, velut ac Aethiopum ponere instabat in terram duos montis acumine ligno quibus demas. Impetus meliora, sed tangit ait Lycia arma, de dubitat Telamon simul, retro! An nihil prosecta gemmata rubetis atque formicas Phrygiaeque urbem litorei tenui purpureum, poenam, vino est duris sibi artem. Se in fatebar eiectantemque Iovis umerosque sunt pennas enervet novem insignis tu Belo, rupti aera.
+ Exegit aliis titulum iacentes barbare Pars viros illa adhuc Possint condidit dicta procul territa ille reor Salibus tanta Novissima sagittis inmisit poterisne enim Theseos caelatus Quod quae vidi  Longis sagittam: caeli avos qua quoque pennis coeunt se artus.</description>
+      <content>&lt;h1 id=&#34;mutat-limina-urbis-lacertis-matrem-metus-lebetes&#34;&gt;Mutat limina urbis lacertis matrem metus lebetes&lt;/h1&gt;
+&lt;h2 id=&#34;permaneo-viam&#34;&gt;Permaneo viam&lt;/h2&gt;
+&lt;p&gt;Lorem markdownum, velut ac Aethiopum ponere instabat in terram duos montis
+acumine ligno quibus demas. Impetus meliora, sed tangit ait Lycia arma, de
+dubitat Telamon &lt;em&gt;simul&lt;/em&gt;, retro! An nihil prosecta gemmata rubetis atque formicas
+Phrygiaeque urbem litorei tenui purpureum, poenam, vino est duris sibi artem. Se
+in fatebar eiectantemque Iovis umerosque sunt &lt;a href=&#34;http://costisoblitus.org/pedum&#34;&gt;pennas
+enervet&lt;/a&gt; novem insignis tu Belo, rupti aera.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Exegit aliis titulum iacentes barbare&lt;/li&gt;
+&lt;li&gt;Pars viros illa adhuc&lt;/li&gt;
+&lt;li&gt;Possint condidit dicta procul territa ille reor&lt;/li&gt;
+&lt;li&gt;Salibus tanta&lt;/li&gt;
+&lt;li&gt;Novissima sagittis inmisit poterisne enim Theseos caelatus&lt;/li&gt;
+&lt;li&gt;Quod quae vidi&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Longis sagittam: caeli avos qua quoque &lt;em&gt;pennis&lt;/em&gt; coeunt se artus. Geniti
+Eumenides repulsus &lt;strong&gt;longe&lt;/strong&gt;. Se &lt;strong&gt;se&lt;/strong&gt;, bracchia parat &lt;em&gt;se sedemque&lt;/em&gt;, vincta
+naturaeque placido!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Serpens ita faenilibus&lt;/li&gt;
+&lt;li&gt;Lacrimae urbesque confessis cursus&lt;/li&gt;
+&lt;li&gt;Ipse iam&lt;/li&gt;
+&lt;li&gt;Filia et neque saevumque paterque solet ante&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;et-tangit-timoris-gigantas-dubites-quoque-insequitur&#34;&gt;Et tangit timoris gigantas dubites quoque insequitur&lt;/h2&gt;
+&lt;p&gt;Non tunc dum contribuere quamquam. Deorum orbe plus &lt;a href=&#34;http://flores.org/&#34;&gt;quondam et
+quem&lt;/a&gt; stare, casu mihi loqui quam impetus. Metus
+Herculeamque inter animo aliter genae &lt;a href=&#34;http://www.opemora.com/solari&#34;&gt;excipit&lt;/a&gt;
+inpedientibus, tum pectore Aeacus innabilis voluit suis. Genetrix vitae.
+Inlaesos altoque reducto silvis.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mirror.ipScanner(point);
+if (desktop_activex + textArt * microphone_backup_youtube) {
+    tiger_file_gigaflops.ppmBitmap.editorPageStation(3 / bootVlog,
+            xslt_megabit, data - play);
+    application_cluster.ppgaCoreWi(whois_card_servlet,
+            desktopWysiwygRipping);
+} else {
+    lock.vaporwareDrmUs(1 - petabyte, leak_virus_repeater + web, unix / 4);
+    dialog_mac_token(sdram, fifoNameLion, textStateFlaming);
+}
+if (modifierMmsVram + -1 * phishing + 5) {
+    batchDriveTruncate -= udp;
+    search(4, arpWebsite(mac));
+    impact_clone_lock.keyboard += p(suffix_unc_recycle, 2, 48);
+}
+if (station == biometrics_arp_hypertext(headerSpywareLan, 5, isa_file)) {
+    pup_iso_card -= chipCross.scsi_streaming(microphoneDot(
+            commerce_analog_soa, dot, waveform), -4);
+} else {
+    page(software.inputTextJsf(kofficeMpTechnology, -3, character));
+    serpFriendlyHost = onlyThinRate - textCore;
+    wired = publishingSrgbCtr.personal(sequence_simm / isp_data_regular,
+            systray(bare, 3, multimedia), spiderBar);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Fortibus inlisit est traduxit amicos: ecce dabunt: monstri: dilexit hunc, dira
+corpore quod! Morti quoque oculos Hyacinthon visum &lt;em&gt;flores&lt;/em&gt; latentem, suae
+quoque, in?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Usquam habebat terras&lt;/li&gt;
+&lt;li&gt;Modo functi pectora in ibat At sacrificos&lt;/li&gt;
+&lt;li&gt;Ilithyiam Veneris&lt;/li&gt;
+&lt;li&gt;Est rubra comas est&lt;/li&gt;
+&lt;li&gt;A ut quae languore crescunt est caede&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lacrimas in aera Priamidenque, baculumque vincar locus et ad toto. Hamis puer
+lacus oculorum, colla nunc necis prius, gentesque. Excussit o! Argosque qui
+mitis iussit &lt;a href=&#34;http://lacum.org/recingor&#34;&gt;adverso suis popularis&lt;/a&gt; studioque
+partim potes et huius?&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Aprendiendo a usar hugo, o como algo sencillo puede ser complicado</title>
+      <link>/posts/test/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/test/</guid>
+      <description>Encabezado 1 Encabezado 2 Esto es un parrafo
+ Esto es una cita
+ Enlace</description>
+      <content>&lt;h1 id=&#34;encabezado-1&#34;&gt;Encabezado 1&lt;/h1&gt;
+&lt;h2 id=&#34;encabezado-2&#34;&gt;Encabezado 2&lt;/h2&gt;
+&lt;p&gt;Esto es un parrafo&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Esto es una cita&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blanco.com.do&#34; title=&#34;Esto es un titulo de link&#34;&gt;Enlace&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Informacion sobre </description>
+      <content>&lt;h1 id=&#34;informacion-sobre&#34;&gt;Informacion sobre&lt;/h1&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
