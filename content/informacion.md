@@ -1,10 +1,7 @@
 +++
+
 title = "Informacion de este sitio"
-authorTwitter = "J2bv16" #do not include @
-cover = "https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/images/virtualbox-main-empty.png"
-tags = ["VM", "DDNS"]
-keywords = ["", ""]
-description = ""
+
 +++
 
 
