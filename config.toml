@@ -59,13 +59,13 @@ paginate = 5
     missingContentMessage = "Pagina no encontrada..."
     missingBackButtonLabel = "Volver al inicio"
 
-    [languages.en.params.logo]
+    [languages.es.params.logo]
       logoText = "Servidor-Blanco"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "Informacion"
         name = "Informacion"
-        url = "/about"
+        url = "/informacion"
     
