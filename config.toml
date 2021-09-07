@@ -44,7 +44,7 @@ paginate = 5
   site = ""
 
 [languages]
-  [languages.es]
+  [languages.en]
     languageName = "Espanol"
     title = "Servidor-Blanco"
     subtitle = "Sitio creado en hugo corriendo en rapsberry Pi"
