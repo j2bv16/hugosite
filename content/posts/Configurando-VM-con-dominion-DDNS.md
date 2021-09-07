@@ -9,3 +9,27 @@ keywords = ["", ""]
 description = ""
 showFullContent = true
 +++
+
+## Contenidos de este servidor
+* Virtual box corriendo Ubuntu 21.04
+* Apache2 + PHP 7.4
+* ddclient para servicios Dynamic DNS
+* Dominio namecheap con soporte Dyndns
+*  Certbot para SSl de letsEncrypt
+
+## Comandos de instalacion
+___ sudo apt install apache2
+___sudo apt install php libapache2-mod-php
+___sudo apt install ddclient
+___sudo snap install --classic certbot
+
+## Documentacion consultada
+* Configurar DynDns Namecheap
+* Tutorial como configurar DDclient
+* Configurar apache2 con mas de un dominio
+* Obtener certificado con Certbot
+## Otros detalles
+
+Puerto 80,443 abiertos en modem. Esta configuracion se obtiene mediante "NAT" y "Port Forwarding". Se deben apuntar estos puertos al ip asignado a tu servidor/maquina virtual.
+
+### Es posible que para la configuracion especifica de cada caso se necesite investigar bastante. Google normalmente tiene la mayoria de las respuestas
