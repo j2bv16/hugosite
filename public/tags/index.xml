@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Servidor-Blanco</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Servidor-Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 06 Sep 2021 00:17:49 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Sep 2021 21:20:43 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prueba</title>
-      <link>/tags/prueba/</link>
-      <pubDate>Mon, 06 Sep 2021 00:17:49 -0400</pubDate>
+      <title>DDNS</title>
+      <link>/tags/ddns/</link>
+      <pubDate>Mon, 06 Sep 2021 21:20:43 -0400</pubDate>
       
-      <guid>/tags/prueba/</guid>
+      <guid>/tags/ddns/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>prueba2</title>
-      <link>/tags/prueba2/</link>
-      <pubDate>Mon, 06 Sep 2021 00:17:49 -0400</pubDate>
+      <title>VM</title>
+      <link>/tags/vm/</link>
+      <pubDate>Mon, 06 Sep 2021 21:20:43 -0400</pubDate>
       
-      <guid>/tags/prueba2/</guid>
+      <guid>/tags/vm/</guid>
       <description></description>
       <content></content>
     </item>
