@@ -18,10 +18,10 @@ showFullContent = true
 *  Certbot para SSl de letsEncrypt
 
 ## Comandos de instalacion
-___ sudo apt install apache2
-___sudo apt install php libapache2-mod-php
-___sudo apt install ddclient
-___sudo snap install --classic certbot
+    sudo apt install apache2
+    sudo apt install php libapache2-mod-php
+    sudo apt install ddclient
+    sudo snap install --classic certbot
 
 ## Documentacion consultada
 * Configurar DynDns Namecheap
@@ -32,4 +32,4 @@ ___sudo snap install --classic certbot
 
 Puerto 80,443 abiertos en modem. Esta configuracion se obtiene mediante "NAT" y "Port Forwarding". Se deben apuntar estos puertos al ip asignado a tu servidor/maquina virtual.
 
-### Es posible que para la configuracion especifica de cada caso se necesite investigar bastante. Google normalmente tiene la mayoria de las respuestas
+##### Es posible que para la configuracion especifica de cada caso se necesite investigar bastante. Google normalmente tiene la mayoria de las respuestas
