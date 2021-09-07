@@ -7,7 +7,7 @@ cover = "https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/images/vi
 tags = ["VM", "DDNS"]
 keywords = ["", ""]
 description = "Configurando maquina virtual para accesar desde internet"
-showFullContent = true
+showFullContent = false
 +++
 
 ## Contenidos de este servidor
