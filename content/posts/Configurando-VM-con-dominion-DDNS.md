@@ -7,5 +7,5 @@ cover = "https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/images/vi
 tags = ["", ""]
 keywords = ["", ""]
 description = ""
-showFullContent = yes
+showFullContent = true
 +++
