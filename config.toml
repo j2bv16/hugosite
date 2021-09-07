@@ -46,9 +46,9 @@ paginate = 5
 [languages]
   [languages.es]
     languageName = "Espanol"
-    title = "Blanco.com.do"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = "Blanco@outlook.com"
+    title = "Servidor-Blanco"
+    subtitle = "Sitio creado en hugo corriendo en rapsberry Pi"
+    owner = "jose@blanco.com.do"
     keywords = ""
     copyright = ""
     menuMore = "Ver +"
@@ -66,9 +66,6 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "Informacion"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+    
