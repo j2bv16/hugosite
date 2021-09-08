@@ -1,7 +1,7 @@
 +++
 title = "Ipv6 en Republica Dominicana"
 date = "2021-09-07T21:47:17-04:00"
-author = "Jose@blanco.com.do"
+author = "Jose Blanco"
 authorTwitter = "j2bv16" #do not include @
 cover = "posts/imagenes/ipv6.jpg"
 tags = ["IPV6", "RD"]
