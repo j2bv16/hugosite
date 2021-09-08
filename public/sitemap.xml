@@ -33,12 +33,11 @@
   </url>
   
   <url>
-    <loc>/informacion/</loc>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/informacion/</loc>
   </url>
   
 </urlset>

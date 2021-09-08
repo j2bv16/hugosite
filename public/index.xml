@@ -42,14 +42,14 @@ sudo snap install --classic certbot
     </item>
     
     <item>
-      <title></title>
+      <title>Informacion de este sitio</title>
       <link>/informacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/informacion/</guid>
-      <description>SOBRE ESTE SITIO Sitio corriendo en rapsberry Pi 4b+</description>
-      <content>&lt;h1 id=&#34;sobre-este-sitio&#34;&gt;SOBRE ESTE SITIO&lt;/h1&gt;
-&lt;p&gt;Sitio corriendo en rapsberry Pi 4b+&lt;/p&gt;
+      <description>Sitio web creado con Hugo (https://gohugo.io) alojado en Netlify (https://netlify.com) y en Github (https://github.com/j2bv16/hugosite)</description>
+      <content>&lt;p&gt;Sitio web creado con Hugo (&lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt;) alojado en Netlify (&lt;a href=&#34;https://netlify.com&#34;&gt;https://netlify.com&lt;/a&gt;)
+y en Github (&lt;a href=&#34;https://github.com/j2bv16/hugosite&#34;&gt;https://github.com/j2bv16/hugosite&lt;/a&gt;)&lt;/p&gt;
 </content>
     </item>
     
