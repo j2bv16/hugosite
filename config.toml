@@ -61,14 +61,14 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = ""
+  homeSubtitle = "Sitio creado con hugo"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = "https://github.com/j2bv16/hugosite.git"
+  # gitUrl = "https://github.com/j2bv16/hugosite"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
     topText = []
     bottomText = [
       "Hecho con <a href=\"http://gohugo.io\">Hugo</a>",
-      "Codigo disponible en <a href=\"https://github.com/j2bv16\">GitHub</a>"
+      "Codigo disponible en <a href=\"https://github.com/j2bv16/hugosite\">GitHub</a>"
     ]
 
   # Colors for favicons
@@ -152,7 +152,7 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
+   [params.portrait]
   #   path     = "/img/image.jpg"
   #   alt      = "Portrait"
   #   maxWidth = "50px"
