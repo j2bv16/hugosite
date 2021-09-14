@@ -10,12 +10,12 @@ description = "Configurando maquina virtual para accesar desde internet"
 showFullContent = false
 +++
 
-## Contenidos de este servidor
+## Lo que utilice para montar mi servidor personal
 * Virtual box corriendo Ubuntu 21.04
 * Apache2 + PHP 7.4
 * ddclient para servicios Dynamic DNS
 * Dominio namecheap con soporte Dyndns
-*  Certbot para SSl de letsEncrypt
+* Certbot para SSl de letsEncrypt gratis
 
 ## Comandos de instalacion
     sudo apt install apache2
@@ -24,10 +24,11 @@ showFullContent = false
     sudo snap install --classic certbot
 
 ## Documentacion consultada
-* Configurar DynDns Namecheap
-* Tutorial como configurar DDclient
-* Configurar apache2 con mas de un dominio
-* Obtener certificado con Certbot
+-   [Configurar DynDns Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/583/11/how-do-i-configure-ddclient/)
+-   [Tutorial como configurar DDclient](https://serdima.wordpress.com/2018/04/23/tutorial-updating-dynamic-dns-with-ddclient/)
+-   [Configurar apache2 con mas de un dominio](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04-es)
+-   [Obtener certificado con Certbot](https://certbot.eff.org/lets-encrypt/ubuntufocal-apache)
+
 ## Otros detalles
 
 Puerto 80,443 abiertos en modem. Esta configuracion se obtiene mediante "NAT" y "Port Forwarding". Se deben apuntar estos puertos al ip asignado a tu servidor/maquina virtual.
