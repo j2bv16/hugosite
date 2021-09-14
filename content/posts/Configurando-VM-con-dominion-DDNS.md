@@ -1,5 +1,5 @@
 +++
-title = "Configurando VM Con Dominio DDNS"
+title = "Configurar servidor web con dominio personalizado para que sea accesible desde internet"
 date = "2021-09-06T21:20:43-04:00"
 author = "Jose Blanco"
 authorTwitter = "J2bv16" #do not include @
