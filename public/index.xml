@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Servidor-Blanco</title>
+    <link>/</link>
+    <description>Recent content on Servidor-Blanco</description>
+    <image>
+      <url>papermod-cover.png</url>
+      <link>papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Sep 2021 21:47:17 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ipv6 en Republica Dominicana</title>
+      <link>/posts/ipv6-en-republica-dominicana/</link>
+      <pubDate>Tue, 07 Sep 2021 21:47:17 -0400</pubDate>
+      
+      <guid>/posts/ipv6-en-republica-dominicana/</guid>
+      <description>El futuro del internet depende de la adopción del IPV6</description>
+    </item>
+    
+    <item>
+      <title>Configurar servidor web con dominio personalizado para que sea accesible desde internet</title>
+      <link>/posts/configurando-vm-con-dominion-ddns/</link>
+      <pubDate>Mon, 06 Sep 2021 21:20:43 -0400</pubDate>
+      
+      <guid>/posts/configurando-vm-con-dominion-ddns/</guid>
+      <description>Configurando maquina virtual para accesar desde internet</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>/entrada2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/entrada2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
