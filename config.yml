@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://servidor-blanco.netlify.app/"
 title: Servidor-Blanco
 paginate: 5
 theme: PaperMod
