@@ -1,6 +1,3 @@
-# Introduccion a mi sitio creado con hugo
+Repositorio de sitio web creado con hugo, para ser instalado en servidor personal
 
-(https://gohugo.io)
-
-Sitio web para correr en rpi. 
-Blog con tema "Terminal" (https://github.com/panr/hugo-theme-terminal.git)
+Usando el tema [PaperMod](https://git.io/hugopapermod)
