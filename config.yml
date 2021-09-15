@@ -73,13 +73,12 @@ params:
     homeInfoParams:
         Title: "Bienvenid@"
         Content: >
-            Bienvenido a este servidor personal.
+            - Bienvenido a este servidor personal
             
             - El sitio web esta hecho con **[Hugo](https://gohugo.io)** y el tema **[PaperMod](https://github.com/adityatelange/hugo-PaperMod)**
             
-            - Ademas de contener algunos tutoriales de interes, contendra enlaces de uso interno
-            
-            - Usando herramientas codigo abierto en su totalidad, puede ser descargado desde **[GitHub](https://github.com/j2bv16/hugosite)**
+           
+            - Usando herramientas codigo abierto en su totalidad, el codigo se puede obtener en **[GitHub](https://github.com/j2bv16/hugosite)**
 
     socialIcons:
         - name: github
