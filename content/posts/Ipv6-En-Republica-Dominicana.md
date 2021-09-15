@@ -1,14 +1,37 @@
-+++
-title = "Ipv6 en Republica Dominicana"
-date = "2021-09-07T21:47:17-04:00"
-author = "Jose Blanco"
-authorTwitter = "j2bv16" #do not include @
-cover = "posts/imagenes/ipv6.jpg"
-tags = ["IPV6", "RD"]
-keywords = ["", ""]
-description = "El futuro del internet depende de la adopción del IPV6"
-showFullContent = false
-+++
+---
+title: "Ipv6 en Republica Dominicana"
+date: "2021-09-07T21:47:17-04:00"
+# weight: 1
+# aliases: ["/first"]
+tags: ["IPV6, RD"]
+author: "Jose@blanco.com.do"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "El futuro del internet depende de la adopción del IPV6"
+#canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+cover:
+    image: "posts/imagenes/ipv6.jpg" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "Nube de datos estilo matrix" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/j2bv16/hugosite/blob/main/content/posts/Ipv6-En-Republica-Dominicana.md"
+    Text: "Sugerir Cambios" # edit text
+    appendFilePath: false # to append file path to Edit link
+---
 
 
 

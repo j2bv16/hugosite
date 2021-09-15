@@ -1,14 +1,38 @@
-+++
-title = "Configurar servidor web con dominio personalizado para que sea accesible desde internet"
-date = "2021-09-06T21:20:43-04:00"
-author = "Jose Blanco"
-authorTwitter = "J2bv16" #do not include @
-cover = "https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/images/virtualbox-main-empty.png"
-tags = ["VM", "DDNS"]
-keywords = ["", ""]
-description = "Configurando maquina virtual para accesar desde internet"
-showFullContent = false
-+++
+---
+title: "Configurar servidor web con dominio personalizado para que sea accesible desde internet"
+date: "2021-09-06T21:20:43-04:00"
+# weight: 1
+# aliases: ["/first"]
+tags: ["IPV6, RD"]
+author: "Jose@blanco.com.do"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Configurando maquina virtual para accesar desde internet"
+#canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+cover:
+    image: "https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/images/virtualbox-main-empty.png" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "Oracle Virtualbox" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/j2bv16/hugosite/tree/main/content"
+    Text: "Sugerir Cambios" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
+
 
 ## Lo que utilice para montar mi servidor personal
 * Virtual box corriendo Ubuntu 21.04
@@ -33,4 +57,5 @@ showFullContent = false
 
 Puerto 80,443 abiertos en modem. Esta configuracion se obtiene mediante "NAT" y "Port Forwarding". Se deben apuntar estos puertos al ip asignado a tu servidor/maquina virtual.
 
-##### Es posible que para la configuracion especifica de cada caso se necesite investigar bastante. Google normalmente tiene la mayoria de las respuestas
+#### Nota final
+Es posible que para la configuracion especifica de cada caso se necesite investigar bastante. Google normalmente tiene la mayoria de las respuestas
