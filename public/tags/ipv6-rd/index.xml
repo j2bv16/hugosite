@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IPV6, RD on Servidor-Blanco</title>
-    <link>/tags/ipv6-rd/</link>
+    <link>https://servidor-blanco.netlify.app/tags/ipv6-rd/</link>
     <description>Recent content in IPV6, RD on Servidor-Blanco</description>
     <image>
-      <url>papermod-cover.png</url>
-      <link>papermod-cover.png</link>
+      <url>https://servidor-blanco.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://servidor-blanco.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Sep 2021 21:47:17 -0400</lastBuildDate><atom:link href="/tags/ipv6-rd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 21:47:17 -0400</lastBuildDate><atom:link href="https://servidor-blanco.netlify.app/tags/ipv6-rd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ipv6 en Republica Dominicana</title>
-      <link>/posts/ipv6-en-republica-dominicana/</link>
+      <link>https://servidor-blanco.netlify.app/posts/ipv6-en-republica-dominicana/</link>
       <pubDate>Tue, 07 Sep 2021 21:47:17 -0400</pubDate>
       
-      <guid>/posts/ipv6-en-republica-dominicana/</guid>
+      <guid>https://servidor-blanco.netlify.app/posts/ipv6-en-republica-dominicana/</guid>
       <description>El futuro del internet depende de la adopción del IPV6</description>
     </item>
     
     <item>
       <title>Configurar servidor web con dominio personalizado para que sea accesible desde internet</title>
-      <link>/posts/configurando-vm-con-dominion-ddns/</link>
+      <link>https://servidor-blanco.netlify.app/posts/configurando-vm-con-dominion-ddns/</link>
       <pubDate>Mon, 06 Sep 2021 21:20:43 -0400</pubDate>
       
-      <guid>/posts/configurando-vm-con-dominion-ddns/</guid>
+      <guid>https://servidor-blanco.netlify.app/posts/configurando-vm-con-dominion-ddns/</guid>
       <description>Configurando maquina virtual para accesar desde internet</description>
     </item>
     
